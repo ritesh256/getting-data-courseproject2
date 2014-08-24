@@ -1,5 +1,6 @@
  DATA DICTIONARY 
-
+ 
+======================================
 
 [1] "activity"
 	Activity list
