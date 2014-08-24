@@ -1,5 +1,6 @@
  DATA DICTIONARY 
 
+
 [1] "activity"
 	Activity list
   Value
@@ -14,7 +15,6 @@
 	group of 30 volunteers
 	value: 1 to 30
 
-======================================
 All the below columns are divded into two major category - Time and Frequency domain. 
 Column name first letter "t" stands for time and "f" stands for frequency
 
@@ -24,14 +24,8 @@ The sensor acceleration signal, which has gravitational and body motion componen
 std stands for standard deviation
 
 It records signal for each axis. All the columns are self explenatory based on description provided above.
-======================================
 
-- Triaxial acceleration from the accelerometer (total acceleration) and the estimated body acceleration.
-- Triaxial Angular velocity from the gyroscope. 
-- A 561-feature vector with time and frequency domain variables. 
-- Its activity label. 
-- An identifier of the subject who carried out the experiment.
- 
+
 [3] "tBodyAcc-mean()-X"     
 [4] "tBodyAcc-mean()-Y"  
 [5] "tBodyAcc-mean()-Z"           
